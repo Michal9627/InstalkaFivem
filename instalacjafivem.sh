@@ -11,7 +11,7 @@ mkdir /home/serwerFivem
 mkdir /home/serwerFivem/FXServer
 mkdir /home/serwerFivem/FXServer/server
 cd /home/serwerFivem/FXServer/server
-wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/9823-54591fc39c2bf15234888b19127f5ba341da4736/fx.tar.xz
+wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/10573-76e67bd59382996a816b66eb5e9760bda2560863/fx.tar.xz
 tar xf fx.tar.xz
 cd 
 git clone https://github.com/citizenfx/cfx-server-data.git /home/serwerFivem/fx-server-data
